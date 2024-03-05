@@ -1,0 +1,297 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1709659315722954, "dur":2519, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709659315725506, "dur":199, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709659315725773, "dur":436, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709659315728333, "dur":40136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1709659315770073, "dur":2985, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1709659315726251, "dur":47295, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709659315773548, "dur":374752, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709659316148301, "dur":331, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709659316148633, "dur":400, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709659316149034, "dur":65, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709659316149301, "dur":2768, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1709659315824866, "dur":4896, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709659315829836, "dur":203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709659315830048, "dur":1195, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1709659315831246, "dur":193, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1709659315831892, "dur":306, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Projects\\Runner's Rythym\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709659315832201, "dur":447, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Projects\\Runner's Rythym\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709659315832652, "dur":316, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Projects\\Runner's Rythym\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709659315832970, "dur":555, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Projects\\Runner's Rythym\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709659315833530, "dur":507, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity\\Projects\\Runner's Rythym\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1709659315829834, "dur":4336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709659315834512, "dur":105, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1709659315835139, "dur":308091, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709659316145398, "dur":390, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709659316145394, "dur":398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1709659316145829, "dur":2417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1709659315825188, "dur":298, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315825486, "dur":313, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315825800, "dur":4031, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315829851, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315872232, "dur":2296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1709659315874571, "dur":1385, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315876125, "dur":14278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315890432, "dur":1031, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315891516, "dur":2428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315893972, "dur":351, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315894355, "dur":3824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315898217, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315898299, "dur":11080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315909413, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315913473, "dur":266, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315909507, "dur":4263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315913841, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315914001, "dur":11482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315926026, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315926103, "dur":3552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315929681, "dur":694, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315930419, "dur":13626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315944100, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315947655, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315944269, "dur":3498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315947907, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315948036, "dur":7890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315955971, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315956227, "dur":3148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315959435, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315959537, "dur":3694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315963260, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315963347, "dur":3863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315967268, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315967369, "dur":3939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315971344, "dur":336, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315971716, "dur":6156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315977909, "dur":169, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315978093, "dur":201, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315978309, "dur":9217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315987568, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315987741, "dur":2908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315990682, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1709659315990863, "dur":4251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1709659315995152, "dur":3161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1709659315998346, "dur":149955, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315825272, "dur":571, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315825843, "dur":3962, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315829843, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315870549, "dur":2779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1709659315873405, "dur":198, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315878224, "dur":15228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315893480, "dur":219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315893737, "dur":5859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315899644, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315899772, "dur":6477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315906285, "dur":292, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315906847, "dur":4523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315911409, "dur":809, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315912236, "dur":11487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315923769, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315923867, "dur":2968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315926874, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315926972, "dur":3801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315930804, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315930929, "dur":28274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315959242, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315959415, "dur":4373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315963820, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315975357, "dur":103, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315964007, "dur":11488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315975546, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315975738, "dur":4960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315980744, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315980831, "dur":8497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315989355, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1709659315989507, "dur":3109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1709659315992654, "dur":3192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1709659315995941, "dur":8368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1709659316004339, "dur":143943, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315825512, "dur":387, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315825900, "dur":3892, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315829826, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315869738, "dur":3075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1709659315872863, "dur":595, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315875784, "dur":11599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1709659315887486, "dur":2751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315890276, "dur":346, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315891449, "dur":6227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315897710, "dur":1239, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315898986, "dur":6415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315905439, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315905521, "dur":12275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315917838, "dur":2505, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315921167, "dur":7156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315928362, "dur":190, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315928581, "dur":25014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315953705, "dur":3197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315956944, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315957038, "dur":5657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315962728, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315962808, "dur":4920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315967755, "dur":613, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315968507, "dur":7396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315975939, "dur":385, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315976372, "dur":11641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315988040, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315988134, "dur":2596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315990754, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1709659315990866, "dur":4136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1709659315995133, "dur":2219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1709659315997412, "dur":3006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1709659316000456, "dur":147824, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315825545, "dur":303, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315825849, "dur":3949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315829823, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315832878, "dur":5269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1709659315838214, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315839103, "dur":2019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1709659315841178, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315841363, "dur":13129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1709659315854548, "dur":365, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315855861, "dur":3490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1709659315859485, "dur":2329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1709659315861868, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315862301, "dur":1676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1709659315864035, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315864115, "dur":1794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1709659315865956, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315866474, "dur":2807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1709659315869492, "dur":22927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709659315892458, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315892650, "dur":4758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709659315897472, "dur":3132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315900644, "dur":15591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709659315916284, "dur":782, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315917108, "dur":8774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709659315925914, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315926002, "dur":24681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709659315950730, "dur":2603, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315953409, "dur":3842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709659315957280, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315957387, "dur":5452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709659315962864, "dur":221, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315963113, "dur":4530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709659315967669, "dur":233, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315967935, "dur":3862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709659315971832, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315972055, "dur":7597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709659315979717, "dur":260, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315980006, "dur":9774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709659315989830, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315990044, "dur":4909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1709659315995010, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1709659315995095, "dur":9950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1709659316005087, "dur":143192, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315825384, "dur":619, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315826004, "dur":3774, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315829782, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1709659315829839, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315830607, "dur":16180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1709659315846853, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315847454, "dur":7366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1709659315855889, "dur":2732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1709659315858721, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315858967, "dur":2183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1709659315861224, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315861654, "dur":1767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1709659315863691, "dur":1933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1709659315865746, "dur":2757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1709659315868555, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315868946, "dur":2249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315871304, "dur":17203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial.exe" }}
+,{ "pid":12345, "tid":6, "ts":1709659315888543, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315888620, "dur":4177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315892829, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315892905, "dur":4514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315897464, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315897681, "dur":3815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315901533, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315903164, "dur":5782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315909009, "dur":3688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315912729, "dur":252, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315920899, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315913012, "dur":8135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315921195, "dur":368, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315921598, "dur":5628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315927293, "dur":238, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315954847, "dur":191, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315927603, "dur":27455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315955100, "dur":705, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315955844, "dur":5633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315961510, "dur":237, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315961780, "dur":2634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315964445, "dur":238, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315964720, "dur":4530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315969294, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315969420, "dur":7579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315977040, "dur":320, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315977393, "dur":10615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315988050, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1709659315988157, "dur":2899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659315991170, "dur":64637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1709659316055839, "dur":92459, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315825470, "dur":454, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315825925, "dur":3860, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315829834, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315871327, "dur":1997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1709659315873513, "dur":930, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315875619, "dur":16087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709659315891799, "dur":4377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709659315896207, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315896343, "dur":14597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709659315911004, "dur":1192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315925062, "dur":141, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315912232, "dur":13004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709659315926210, "dur":3404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709659315929648, "dur":726, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315930427, "dur":32186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709659315962710, "dur":3829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709659315966569, "dur":559, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315967147, "dur":194, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315967349, "dur":5276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709659315972666, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315972748, "dur":7183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709659315979974, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315989107, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315980057, "dur":9163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709659315989252, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1709659315989512, "dur":3513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1709659315993230, "dur":2832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1709659315996120, "dur":3699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1709659315999854, "dur":148421, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315825550, "dur":4224, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315829817, "dur":72, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":8, "ts":1709659315829894, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315873280, "dur":15008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/app.info" }}
+,{ "pid":12345, "tid":8, "ts":1709659315888304, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315888385, "dur":3512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315891979, "dur":3868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315895878, "dur":405, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315896345, "dur":6315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315902703, "dur":1536, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315913491, "dur":328, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315904278, "dur":9574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315913914, "dur":147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315914080, "dur":11198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315925380, "dur":5526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315930938, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315931084, "dur":15569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315946692, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315946787, "dur":7783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315954616, "dur":266, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315954901, "dur":145, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315955055, "dur":5746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315960837, "dur":378, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315961254, "dur":4342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315965640, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315965824, "dur":5024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315970889, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315971046, "dur":10515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315981601, "dur":1917, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315983624, "dur":5882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315989534, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1709659315989633, "dur":2797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1709659315992488, "dur":3072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1709659315995605, "dur":8825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/mkafl/OneDrive/Desktop/Runner's Rythym/EndlessRunnerTutorial_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1709659316004461, "dur":143816, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1709659316155381, "dur":1375, "ph":"X", "name": "ProfilerWriteOutput" }
+,
